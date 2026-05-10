@@ -1,12 +1,17 @@
 <div align="center">
-  
-# Mostafa Mohamed Abdelshafy
-### `Junior Penetration Tester` · `Malware Analysis Enthusiast` · `CS Student`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00ff41&height=200&section=header&text=Mostafa%20Abdelshafy&fontSize=42&fontColor=00ff41&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=58&descColor=38C2BF&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=00FF41&size=22&center=true&vCenter=true&height=60&width=700&pause=1000&lines=Junior+Penetration+Tester+%F0%9F%94%90;Malware+Analysis+%26+Reverse+Engineering+%F0%9F%A6%A0;Web+App+Pentesting+%7C+OWASP+Top+10;CTF+Player+%7C+TryHackMe+%26+HackTheBox;Breaking+Things+to+Make+Them+Secure+%E2%9A%94%EF%B8%8F" alt="Typing Animation"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafaabdalshafy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeostafa@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeostafa@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mostafaabdalshafy&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -178,6 +183,25 @@ class MostafaAbdelshafy:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mostafaabdalshafy&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=38C2BF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdalshafy&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mostafaabdalshafy&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=38C2BF&currStreakLabel=00ff41" width="500"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdalshafy&bg_color=0d1117&color=00ff41&line=38C2BF&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💬 Let's Connect
@@ -186,10 +210,10 @@ class MostafaAbdelshafy:
 
 [![Email](https://img.shields.io/badge/abeostafa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeostafa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/mostafaabdalshafy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafaabdalshafy)
-[![Phone](https://img.shields.io/badge/+20_1099492414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201099492414)
+[![WhatsApp](https://img.shields.io/badge/+20_1099492414-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201099492414)
 
----
+<br/>
 
-*Certificates and references available upon request.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:1a1f2e,100:0d1117&height=120&section=footer&fontSize=14&fontColor=38C2BF" width="100%"/>
 
 </div>
