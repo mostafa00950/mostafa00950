@@ -24,7 +24,7 @@ class MostafaAbdelshafy:
     def __init__(self):
         self.role       = "Junior Penetration Tester"
         self.university = "Sinai University — IT & Computer Science (2023–2027)"
-        self.year       = "3rd Year"
+        self.year       = "4rd Year"
         self.location   = "Egypt 🇪🇬"
         self.languages  = ["Arabic (Native)", "English (Intermediate)"]
 
